@@ -3,3 +3,4 @@ git status
 git diff desde los tag largos
 
 mañana nos enfocaremos en su vida laboral
+en vez ed la historia de la vida
