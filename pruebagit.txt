@@ -1,2 +1,15 @@
-esta es la priemnra prueba de inicion de git 
+git show muestra cambios
+git status 
+git diff desde los tag largos
 
+esta es la priemnra prueba de inicion de git 
+asfrsad
+asdfg
+sd
+ag
+sdfsad
+fg
+sdga
+sd
+fg
+hoy es la final
