@@ -2,16 +2,4 @@ git show muestra cambios
 git status
 git diff desde los tag largos
 
-esta es la priemnra prueba de inicion de git
-asfrsad
-asdfg
-sd
-ag
-sdfsad
-fg
-sdga
-sd
-fg
-hoy es la final
-
-hoy hablaremos de mi vida y de lo mierda que es
+mañana nos enfocaremos en su vida laboral
